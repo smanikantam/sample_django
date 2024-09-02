@@ -1,0 +1,7 @@
+*.env
+bin/
+lib/
+*.sqlite3
+
+.DS_Store
+__pycache__/
